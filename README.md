@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200px" src="assets/logo.png" />
+  <img width="200px" src="./logo.png" />
 </p>
 
 # Photoship
